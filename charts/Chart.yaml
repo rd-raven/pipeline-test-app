@@ -1,0 +1,4 @@
+apiVersion: v2
+name: pipeline-test
+version: 0.0.1
+description: pipeline test app chart

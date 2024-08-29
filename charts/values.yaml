@@ -1,0 +1,10 @@
+appName: pipeline-test-app
+namespace: test-space
+appLabel: pipeline-test-app-label
+appContainerName: pipeline-test-app
+appImage: test-image
+internalPort: 8080
+serviceName: pipeline-test-service
+externalPort: 9001
+spec:
+  replicas: 2
